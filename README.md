@@ -31,7 +31,7 @@ Currently, I am expanding my knowledge of Machine Learning and building practica
 
 ## ⭐ Featured Project
 
-### 🦠 COVID-19 Impact & Healthcare Resource Analysis in India
+### 🦠 COVID-19 Impact, Testing & Vaccination Analysis in India
 
 An end-to-end data analytics project focused on understanding the impact of COVID-19 across India. The project analyzes infection trends, state-wise impact, healthcare burden, testing patterns, and vaccination trends to generate meaningful insights.
 
