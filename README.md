@@ -64,3 +64,14 @@ Insight Generation
 Power BI Dashboard
       ↓
 Business Recommendations
+```
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) — Computer Science & Engineering (Data Science)**  
+Kaasireddy Narayanareddy College of Engineering & Research  
+Affiliated to Jawaharlal Nehru Technological University Hyderabad (JNTUH)
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: [Naresh Alakunta](https://www.linkedin.com/in/naresh-alakunta/)
+- 📧 Email: nareshalakunta29@gmail.com
