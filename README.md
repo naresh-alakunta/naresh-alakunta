@@ -75,4 +75,4 @@ Affiliated to Jawaharlal Nehru Technological University Hyderabad (JNTUH)
 
 - 💼 LinkedIn: [Naresh Alakunta](https://www.linkedin.com/in/naresh-alakunta/)
 - 📧 Email: nareshalakunta29@gmail.com
-- 🐙 [GitHub](https://github.com/naresh-alakunta)
+- 🐙 GitHub: [GitHub](https://github.com/naresh-alakunta)
