@@ -1,6 +1,10 @@
-# Hi, I'm Naresh Alakunta 👋
+<h1 align="center">Hi 👋, I'm Naresh Alakunta</h1>
 
-### Data Analyst | Data Science Enthusiast
+<h3 align="center">Data Analyst | Data Science Enthusiast</h3>
+
+<p align="center">
+  Turning Data into Insights • Building Data-Driven Solutions
+</p>
 
 I enjoy analyzing data, discovering meaningful insights, and building data-driven solutions.
 
