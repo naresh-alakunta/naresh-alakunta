@@ -1,4 +1,4 @@
-#  I'm Naresh Alakunta 
+# Hi, I'm Naresh Alakunta 👋
 
 ### Data Analyst | Data Science Enthusiast
 
