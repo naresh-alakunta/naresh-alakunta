@@ -38,6 +38,8 @@ An end-to-end data analytics project focused on understanding the impact of COVI
 **Tools & Technologies:**  
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`
 
+🔗 [View Project Repository](https://github.com/naresh-alakunta/COVID-19-Impact-Testing-Vaccination-India)
+
 ### 🔍 Key Areas Analyzed
 
 - COVID-19 infection and recovery trends
