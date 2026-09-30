@@ -40,6 +40,10 @@ An end-to-end data analytics project focused on understanding the impact of COVI
 
 🔗 [View Project Repository](https://github.com/naresh-alakunta/COVID-19-Impact-Testing-Vaccination-India)
 
+### 💡 What I Did
+
+Cleaned and analyzed COVID-19 data using Python, performed exploratory and outlier analysis, and built an interactive Power BI dashboard to communicate key findings.
+
 ### 🔍 Key Areas Analyzed
 
 - COVID-19 infection and recovery trends
