@@ -51,48 +51,28 @@ Currently, I am expanding my knowledge of Machine Learning and building practica
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## ⭐ Featured Project
+## ⭐ Featured Projects
 
 ### 🦠 COVID-19 Impact, Testing & Vaccination Analysis in India
 
-An end-to-end data analytics project focused on understanding the impact of COVID-19 across India. The project analyzes infection trends, state-wise impact, healthcare burden, testing patterns, and vaccination trends to generate meaningful insights.
+📌 **Description**
 
-**Tools & Technologies:**  
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI`
+End-to-end analysis of COVID-19 impact across India, including state-wise trends, healthcare burden, testing patterns, vaccination trends, and major-wave analysis.
 
-🔗 [View Project Repository](https://github.com/naresh-alakunta/COVID-19-Impact-Testing-Vaccination-India)
+🛠️ **Tech Stack**
 
-### 💡 What I Did
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Cleaned and analyzed COVID-19 data using Python, performed exploratory and outlier analysis, and built an interactive Power BI dashboard to communicate key findings.
+📊 **Key Areas**
 
-### 🔍 Key Areas Analyzed
+`COVID-19 Impact` • `State-wise Analysis` • `Testing` • `Vaccination` • `Outlier Analysis` • `Power BI Dashboard`
 
-- COVID-19 infection and recovery trends
-- State-wise COVID-19 impact
-- Active cases and healthcare burden
-- Death and case-fatality trends
-- Testing and positivity patterns
-- Vaccination trends
-- Outlier and major-wave analysis
+🔗 **Project Repository**
 
-### 📊 Project Workflow
-
-```text
-Data Collection
-      ↓
-Data Cleaning & Validation
-      ↓
-Exploratory Data Analysis
-      ↓
-Outlier Analysis
-      ↓
-Insight Generation
-      ↓
-Power BI Dashboard
-      ↓
-Business Recommendations
-```
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naresh-alakunta/COVID-19-Impact-Testing-Vaccination-India)
 
 ## 🎓 Education
 
