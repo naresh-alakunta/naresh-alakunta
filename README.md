@@ -93,6 +93,7 @@ Power BI Dashboard
       ↓
 Business Recommendations
 ```
+
 ## 🎓 Education
 
 **Bachelor of Technology (B.Tech) — Computer Science & Engineering (Data Science)**  
